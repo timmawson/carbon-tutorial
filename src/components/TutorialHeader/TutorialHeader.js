@@ -15,7 +15,7 @@ import UserAvatar20 from '@carbon/icons-react/lib/user--avatar/20';
 import AppSwitcher20 from '@carbon/icons-react/lib/app-switcher/20';
 
 const TutorialHeader = () => (
-  <Header arial-label="Carbon Tutorial">
+  <Header aria-label="Carbon Tutorial">
     <SkipToContent />
     <HeaderName element={Link} to="/" prefix="IBM">
       Carbon Tutorial

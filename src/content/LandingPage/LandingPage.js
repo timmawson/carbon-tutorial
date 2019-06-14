@@ -30,7 +30,6 @@ const LandingPage = () => {
             <BreadcrumbItem>
               <a href="/">Getting started</a>
             </BreadcrumbItem>
-            >
           </Breadcrumb>
           <h1 className="landing-page__heading">
             Design &amp; build with carbon
